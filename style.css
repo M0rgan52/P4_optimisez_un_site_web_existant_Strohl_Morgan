@@ -702,6 +702,9 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
 
 .titre-autres {
@@ -1039,4 +1042,10 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.adresse {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
