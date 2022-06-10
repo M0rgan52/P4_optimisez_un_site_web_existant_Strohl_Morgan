@@ -335,6 +335,7 @@ a:hover {
 .nav > li a:hover,
 .nav > li a:focus {
     background: transparent;
+    text-decoration: underline;
 }
 
 .navbar-toggle {
@@ -1058,4 +1059,8 @@ blockquote {
 .auteur {
     font-style: normal;
     font-weight: lighter;
+}
+
+.liens:hover {
+    text-decoration: underline;
 }
