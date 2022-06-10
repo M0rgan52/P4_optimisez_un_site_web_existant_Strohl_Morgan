@@ -1049,3 +1049,13 @@ h4 {
     flex-direction: column;
     align-items: center;
 }
+
+blockquote {
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.auteur {
+    font-style: normal;
+    font-weight: lighter;
+}
