@@ -14,11 +14,11 @@ Une comparaison des résultats doit ensuite être fourni.
 
 ### Techniques :arrow_down:
 
-Uniquement **HTML - CSS**.
+- [x] Uniquement **HTML - CSS**.
 
-Les **mots clés** sont : *"entreprise webdesign Lyon"*. 
+- [x] Les **mots clés** sont : *"entreprise webdesign Lyon"*. 
 
-La **vitesse** et **l'accessibilité** du site doit être améliorée.
+- [x] La **vitesse** et **l'accessibilité** du site doit être améliorée.
 
 ### Compatibilité :arrow_down:
 
