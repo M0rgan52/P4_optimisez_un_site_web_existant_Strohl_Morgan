@@ -2,8 +2,6 @@
 
 Il s'agit du **projet n°:four:** de la formation Développeur Web d'OpenClassrooms (Juin 2022).
 
-**_(Projet en cours de validation :hourglass_flowing_sand:)_**
-
 ## Contexte :clipboard:
 
 Une analyse de l'état actuel de SEO du site fourni doit être réalisé. A la suite de cette analyse, des améliorations doivent être mise en place pour optimiser le site.
